@@ -38,8 +38,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
-
         AsyncHttpClient client = new AsyncHttpClient();
         client.get(MOVIE_URL, new JsonHttpResponseHandler() {
             @Override

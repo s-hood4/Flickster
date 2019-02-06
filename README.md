@@ -25,7 +25,7 @@ Submitted By: **Simeon Hood**
 
 ### App Walkthough GIF
 
-<img src="walkthrough.gif, walkthrough2.gif, walkthrough3.gif" width=250><br>
+<img src="walkthrough3.gif" width=250><br>
 
 ### Notes
 
